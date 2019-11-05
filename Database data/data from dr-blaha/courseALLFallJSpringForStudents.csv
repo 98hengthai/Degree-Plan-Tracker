@@ -1,0 +1,126 @@
+num,dept,offered,altYear,name,crd
+1,SCI,B,0,Lab Science 1,4
+2,SCI,B,0,Lab Science 2,4
+3,MSCI,B,0,Math/Science Elective,4
+300,CSCI,A,0,UD Elective,4
+300b,CSCI,A,0,UD Elective,4
+201,BIOL,F,0,Intro Microbiology NS SM,4
+205,BIOL,F,0,Human Anatomy/Physiol I NS SM,4
+225,BIOL,B,0,Molecules  Cells  Org NS  SM,4
+226,BIOL,B,0,Genes  Evol  Div  Ecol  NS  SM,4
+330,BIOL,B,0,Genetics,4
+354,BIOL,B,0,Natural History of Vertebrates,4
+358,BIOL,B,0,Plant Physiology,4
+367,BIOL,S,1,Conservation Biol and Mgmt,4
+201L,BIOL,F,0, + Lab,0
+205L,BIOL,F,0, + Lab,0
+225L,BIOL,B,0, + Lab,0
+226L,BIOL,B,0, + Lab,0
+330L,BIOL,B,0,Genetics Discussion,0
+354L,BIOL,B,0, + Lab,0
+358L,BIOL,B,0, + Lab,0
+367L,BIOL,S,1, + Lab,0
+104,CHEM,F,0,Environmental Chemistry NS SM,4
+105,CHEM,S,0,Chemistry of Life NS SM,4
+115,CHEM,F,0,General Chemistry I NS SM,4
+116,CHEM,S,0,General Chemistry II NS SM,4
+320,CHEM,S,0,Analytical Chemistry,4
+331,CHEM,F,0,Organic Chemistry I,4
+332,CHEM,S,0,Organic Chemistry II,4
+334,CHEM,S,0,Organic Chemistry II Lab,1
+336,CHEM,S,0,Organic Spec Proj Lab,1
+341,CHEM,F,0,Physical Chemistry,4
+342,CHEM,S,0,Physical Chemistry NS  SM,4
+344,CHEM,S,0,Physical Chemistry Lab,1
+405,CHEM,S,0,Biochemistry II,3
+420,CHEM,S,0,Instrumental Analysis,4
+104L,CHEM,F,0, + Lab,0
+115L,CHEM,F,0, + Lab,0
+116L,CHEM,S,0, + Lab,0
+320L,CHEM,S,0, + Lab,0
+333L,CHEM,F,0,Organic Chemistry I Lab,1
+343L,CHEM,F,0,Physical Chemistry Lab,1
+405L,CHEM,S,0, + Lab,0
+420L,CHEM,S,0, + Lab,0
+115,CSCI,J,0,Solve It With Computers MR NS,4
+120,CSCI,B,0,Computerized Info Systems NS,4
+131,CSCI,B,0,Intro to Engineering NS,2
+133,CSCI,S,0,Intro Computational & Data-Sci,4
+144,CSCI,B,0,Intro to Computer Science NS,4
+270,CSCI,B,0,Data Structures,4
+302,CSCI,F,0,Computer Organization,4
+330,CSCI,F,1,Introduction to Artificial Intelligence,4
+331,CSCI,F,0,Electrical Circuits,4
+340,CSCI,F,2,Formal Languages,4
+343,CSCI,F,0,Programming Lang Concepts,4
+367,CSCI,S,0,Databases and Web Programming,4
+371,CSCI,F,0,Design/Analysis/Algorithms,4
+386,CSCI,F,0,Computer Networks,4
+387,CSCI,F,1,Special Topics in Computer Science,4
+390,CSCI,S,0,Objects and Design,4
+412,CSCI,S,2,Computer Graphics,4
+444,CSCI,S,0,Operating Systems,4
+487,CSCI,J,0,Special Topics in Computer Science,4
+131L,CSCI,B,0, + Lab,0
+144L,CSCI,B,0, + Lab,0
+302L,CSCI,F,0, + Lab,0
+270L,CSCI,B,0, + Lab,0
+331L,CSCI,F,0, + Lab,0
+345L,CSCI,S,0, + Lab,0
+385L,CSCI,S,0, + Lab,0
+499A,CSCI,F,0,Capstone: Seminar Seminar SR,2
+499B,CSCI,S,0,Capstone: Senior Seminar SR,2
+102,GEOS,F,0,General Oceanography,4
+103,GEOS,B,0,Earthquakes Vol/Hazards NS SM,4
+104,GEOS,B,0,Conserv of Nat Resources NS SM,4
+105,GEOS,B,0,Meteorology NS SM,4
+107,GEOS,B,0,FYEP190:Glbl Climate Change NS,4
+109,GEOS,B,0,The Geology of Energy NS  SM,4
+201,GEOS,B,0,Geologic Principles NS SM,4
+325,GEOS,S,0,Structural Geology,4
+332,GEOS,B,0,Geomorphology,4
+335,GEOS,B,0,Geophysics,4
+103L,GEOS,B,0, + Lab,0
+104L,GEOS,B,0, + Lab,0
+105L,GEOS,B,0, + Lab,0
+109L,GEOS,B,0, + Lab,0
+201L,GEOS,B,0, + Lab,0
+325L,GEOS,S,0, + Lab,0
+332L,GEOS,B,0, + Lab,0
+335L,GEOS,B,0, + Lab,0
+105,MATH,B,0,Math of Personal Finance MR NS,4
+115,MATH,B,0,College Algebra/Trig   MR NS,4
+123,MATH,B,0,Modern Elem Math I  MR  NS,4
+124,MATH,B,0,Modern Elem Math II  MR  NS,4
+128,MATH,B,0,Linear Models & Calculus MR NS,4
+140,MATH,B,0,Precalculus MR NS,4
+151,MATH,B,0,Introduction to Calculus MR NS,4
+152,MATH,B,0,Calculus II MR NS,4
+242,MATH,F,0,Intro to Math Statistics NS,4
+245,MATH,S,0,Discrete Structures NS,4
+253,MATH,B,0,Multivariable Calculus NS,4
+317,MATH,B,0,Intro to Proof in Math NS,4
+321,MATH,S,0,Geometry NS,4
+331,MATH,B,0,Linear Algebra NS,4
+351,MATH,S,1,Differential Equations NS,4
+433,MATH,F,0,Abstract Algebra,4
+446,MATH,F,0,Math in the Secondary School,4
+455,MATH,S,0,Mathematical Analysis,4
+480,MATH,S,0,Topics in Mathematics,4
+499A,MATH,F,0,Capstone: Senior Sem I SR,2
+499B,MATH,S,0,Capstone: Senior Sem II SR,2
+110,PHYS,B,0,Astronomy NS SM,4
+125,PHYS,B,0,College Physics I NS SM,4
+135,PHYS,B,0,College Physics I Laboratory,1
+153,PHYS,B,0,General Physics I NS SM,4
+154,PHYS,B,0,General Physics II NS SM,4
+163,PHYS,B,0,General Physics I Laboratory,1
+164,PHYS,B,0,General Physics II Laboratory,1
+223,PHYS,S,0,Elementrary Modern Physics,4
+240,PHYS,B,0,Engineering Statics,4
+331,PHYS,B,0,Electromagnetic Theory,4
+333,PHYS,B,0,Engineering Thermodynamics,4
+356,PHYS,B,0,Mathematical Physics II,4
+110L,PHYS,B,0, + Lab,0
+499A,PHYS,F,0,Capstone: Advanced Lab I SR,1
+499B,PHYS,S,0,Capstone: Advanced Lab II SR,1
